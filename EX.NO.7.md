@@ -10,13 +10,17 @@
 <img width="753" height="876" alt="image" src="https://github.com/user-attachments/assets/8ddcbb82-3d53-4b57-b5ba-ce22f91ba64f" />
 <img width="767" height="787" alt="image" src="https://github.com/user-attachments/assets/3593487d-75d4-4b26-b9b0-5eed91e18fb0" />
 
+**OUTPUT**
 
-## Tabulation
+![WhatsApp Image 2025-11-28 at 11 29 43_ceca5add](https://github.com/user-attachments/assets/6398edeb-9fec-4188-bdf1-a331ff1a9431)
 
-## Graph
+
 
 
 ## *Result*
+
+![WhatsApp Image 2025-11-28 at 11 29 43_6c272a1b](https://github.com/user-attachments/assets/39d5fa47-8ce1-49ca-b874-c7e5fe005112)
+
 
 
 
