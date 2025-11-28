@@ -35,6 +35,4 @@ REGULATED POWER SUPPLY
 
 
 
-**RESULT**
 
-<img width="564" height="177" alt="image" src="https://github.com/user-attachments/assets/2b077c46-a900-4d55-839e-394745db61a8" />
