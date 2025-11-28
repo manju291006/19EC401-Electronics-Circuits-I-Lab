@@ -13,13 +13,15 @@ FREQUENCY RESPONSE OF COMMON COLLECTOR AMPLIFIER
 
 **TABULATION**
 
-<img width="610" height="353" alt="image" src="https://github.com/user-attachments/assets/2616cb93-957e-4380-993d-58733b0b79c2" />
+![WhatsApp Image 2025-11-28 at 11 20 28_7cbe72d5](https://github.com/user-attachments/assets/bbb4e84d-452c-4d13-8fb1-c0e96f020e82)
 
 
-**ATTACH TABULATION**
+**GRAPH**
 
-**ATTACH GRAPH**
+![WhatsApp Image 2025-11-28 at 11 20 28_61cd4a48](https://github.com/user-attachments/assets/cf091259-66af-467b-8f7b-879bb4e65fba)
+
 
 **RESULT**
 
-<img width="635" height="258" alt="image" src="https://github.com/user-attachments/assets/014094c5-6c75-467e-ac33-cad97c4dfdee" />
+![WhatsApp Image 2025-11-28 at 11 20 28_830c11a4](https://github.com/user-attachments/assets/e08c6af6-a53f-48e7-a44f-67cd2b3e6a5c)
+
