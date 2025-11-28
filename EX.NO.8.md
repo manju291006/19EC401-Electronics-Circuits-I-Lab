@@ -8,9 +8,10 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+## OUTPUT
 
-## Graph
+![WhatsApp Image 2025-11-28 at 11 32 59_9dff489b](https://github.com/user-attachments/assets/8f39ee06-d306-41b5-be1b-34ab5636196d)
 
+## RESULT
 
-<img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
+![WhatsApp Image 2025-11-28 at 11 33 00_8353cb34](https://github.com/user-attachments/assets/a8cb60c0-7047-4b2c-83f9-4d571bf8fd61)
