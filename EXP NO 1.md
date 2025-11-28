@@ -13,22 +13,27 @@ REGULATED POWER SUPPLY
 
 **TABULATION**
 
-<img width="534" height="142" alt="image" src="https://github.com/user-attachments/assets/20e31af0-6430-4992-a00b-97fd711824c6" />
+![WhatsApp Image 2025-11-28 at 10 29 53_fc80c2de](https://github.com/user-attachments/assets/a96957be-cccb-4453-a00f-cc639a2f7b01)
+
+
+![WhatsApp Image 2025-11-28 at 10 29 53_5b27e4cf](https://github.com/user-attachments/assets/24a6ede2-6281-45c7-a53a-35ae88828431)
+
+**calculation**
+![WhatsApp Image 2025-11-28 at 10 52 37_4f9763a1](https://github.com/user-attachments/assets/f17940d8-196c-4e86-8f2a-6a19e707d8eb)
+
+![WhatsApp Image 2025-11-28 at 10 52 37_3241b382](https://github.com/user-attachments/assets/cd8deede-5943-4c49-bc48-a1ecda2e1159)
+
+
+**GRAPH**
+![WhatsApp Image 2025-11-28 at 10 53 32_9539cd4e](https://github.com/user-attachments/assets/6b397c74-e2d5-41c3-a127-f4188c8f0722)
+
+![WhatsApp Image 2025-11-28 at 10 53 33_75d74bf7](https://github.com/user-attachments/assets/5a6dac7c-b025-4c24-9d83-d9f480300ab5)
 
 
 
-<img width="534" height="159" alt="image" src="https://github.com/user-attachments/assets/085abc7d-3f7d-4e1a-893e-5300c1dbff27" />
+![WhatsApp Image 2025-11-28 at 10 54 19_56d1e1f6](https://github.com/user-attachments/assets/99689264-2df4-4528-b673-3ba57ad32240)
 
 
-
-<img width="425" height="177" alt="image" src="https://github.com/user-attachments/assets/3a5801fc-23eb-4b22-99ee-6d27997f3ed8" />
-
-
-**ATTACH TABULATION**
-
-**ATTACH GRAPH**
-
-<img width="572" height="334" alt="image" src="https://github.com/user-attachments/assets/b4206406-fdb7-44de-8fc8-ce6d793d27fd" />
 
 **RESULT**
 
